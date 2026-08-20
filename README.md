@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anushka!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+Profile!)
 ## 🚀 About Me
-- 🔭 I’m currently building AI/ML-based projects using Python
+- 🔭 I’m currently building full stack projects using Python and Django
 - 🤖 Passionate about Artificial Intelligence and Data Science
 - 🌱 Learning Python, SQL, and Machine Learning concepts
 - 💬 Ask me about Python, SQL, and beginner-friendly AI projects
